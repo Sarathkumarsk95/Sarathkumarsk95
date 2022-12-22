@@ -1,4 +1,8 @@
 ### Hi there 👋
+ 🌱 I’m currently learning Java
+ 📫 How to reach me: sarathkumarmail2me@gmail.com
+ 
+ 
 
 <!--
 **Sarathkumarsk95/Sarathkumarsk95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
