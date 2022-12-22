@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there Iam SARATHKUMAR
+
+A passionate JAVA developer trained by ICT Academy's Youth Employability Skill Program
+
  🌱 I’m currently learning Java
+ 
  📫 How to reach me: sarathkumarmail2me@gmail.com
  
  
